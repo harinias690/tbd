@@ -1,2 +1,2 @@
 hey this first line of file f2
-second line of f2
+
