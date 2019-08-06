@@ -3,3 +3,4 @@ adding 2nd line to this file
 i will undo this change using reset
 add new line
 hello, the end line
+to be removed after staging
